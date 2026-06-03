@@ -6,14 +6,39 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Coworking Space Website
+A simple coworking space landing page built using HTML and CSS. This project focuses on building clean layouts and understanding core CSS concepts.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Features
+Clean and minimal UI design
 
-Happy Coding!
+Responsive image sections
+
+Flexbox-based layout for alignment and spacing
+
+Positioned elements (absolute, relative, fixed)
+
+Reusable components like buttons and cards
+
+What I Learned
+With this project, I gained almost all the essential CSS skills needed to build clean and structured layouts, including:
+
+Flexbox for layout and alignment
+
+CSS positioning (relative, absolute, fixed)
+
+Structuring sections like headers, hero images, and content blocks
+
+Writing more organized and reusable CSS
+
+Tech Stack
+HTML5
+
+CSS3
+
+Project Structure
+index.html – Main HTML structure
+
+index.css – Styling and layout
+
